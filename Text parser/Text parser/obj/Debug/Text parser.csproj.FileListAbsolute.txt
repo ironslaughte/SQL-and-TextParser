@@ -1,0 +1,10 @@
+E:\Тестовое\Text parser\Text parser\bin\Debug\Text parser.exe.config
+E:\Тестовое\Text parser\Text parser\bin\Debug\Text parser.exe
+E:\Тестовое\Text parser\Text parser\bin\Debug\Text parser.pdb
+E:\Тестовое\Text parser\Text parser\obj\Debug\Text parser.csproj.AssemblyReference.cache
+E:\Тестовое\Text parser\Text parser\obj\Debug\Text parser.csproj.SuggestedBindingRedirects.cache
+E:\Тестовое\Text parser\Text parser\obj\Debug\Text parser.csproj.CoreCompileInputs.cache
+E:\Тестовое\Text parser\Text parser\obj\Debug\Text parser.exe
+E:\Тестовое\Text parser\Text parser\obj\Debug\Text parser.pdb
+E:\Тестовое\Text parser\Text parser\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Тестовое\Text parser\Text parser\obj\Debug\Text parser.csproj.ResolveComReference.cache
